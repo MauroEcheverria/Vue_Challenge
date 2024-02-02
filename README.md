@@ -4,10 +4,6 @@
 
 _Here is my Challenge code for VUE, although I could not complete it due to my time and work, I hope you like it._
 
-### Pre-requirements 📋
-
-_Well, you should know them better than me._
-
 ### Installation 🔧
 
 _npm i_
